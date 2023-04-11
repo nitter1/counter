@@ -40,10 +40,10 @@ const Btn = styled.button`
     transform:scale(1);
   }
 `
-const divBtn = styled.div`
+/*const divBtn = styled.div`
 display: flex;
 justify-content: center;
-`
+`*/
 
 const Copy = styled.footer`
     margin-top: 10px;
